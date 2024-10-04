@@ -6,7 +6,7 @@ The script continuously displays random characters that fall down the terminal s
 
 Here's an example of how the effect looks in action:
 
-![Matrix Effect Screenshot](https://github.com/GoldenSpade/hacker-matrix-script/raw/master/img/img.jpg)
+![Matrix Effect Screenshot](https://github.com/GoldenSpade/hacker-matrix-effect/raw/master/img/img.jpg)
 
 ## Features ##
 
@@ -38,7 +38,7 @@ node hackerMatrix.js
 * Node.js (v14.0.0 or higher)
 *  chalk (installed automatically via npm install)
 
-![Matrix Effect Screenshot](https://github.com/GoldenSpade/hacker-matrix-script/raw/master/img/img.gif)
+![Matrix Effect Screenshot](https://github.com/GoldenSpade/hacker-matrix-effect/raw/master/img/img.gif)
 
 Customization
 You can modify the character set used in the falling code by editing the getRandomChar() function in the hackerMatrix.js file.
