@@ -1,0 +1,17 @@
+{
+  "name": "hacker-matrix-effect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon hackerMatrix localhost 8000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "nodemon": "^3.1.7"
+  }
+}
